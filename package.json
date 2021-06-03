@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-bank-cli",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.0",
+    "googleapis": "^75.0.0",
+    "inquirer": "^8.1.0",
+    "redis": "^3.1.2"
+  }
+}
